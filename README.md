@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-[![Build Status](https://dev.azure.com/cybernetitsolution09MK/Terraform%20AZ/_apis/build/status%2Fdhrupad09.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/cybernetitsolution09MK/Terraform%20AZ/_build/latest?definitionId=26&branchName=master)
+https://dev.azure.com/cybernetitsolution09MK/Terraform%20AZ/_apis/build/status%2Fdhrupad09.ContosoAir%20(1)?branchName=master
 
 # Microsoft.Github CI Demo
 
